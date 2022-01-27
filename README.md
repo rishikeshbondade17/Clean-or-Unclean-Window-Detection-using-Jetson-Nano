@@ -162,6 +162,17 @@ straightforward.
 
 • YOLOv5 was used to train and test our model for various classes like clean, unclean.
 We trained it for 149 epochs and achieved an accuracy of approximately 92%.
+
+## Jetson Nano 2GB Developer Kit.
+
+### Setup
+
+
+<img src="https://github.com/rishikeshbondade17/Clean-or-Unclean-Window-Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Clean-or-Unclean-Window-Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo0" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Clean-or-Unclean-Window-Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Clean-or-Unclean-Window-Detection-using-Jetson-Nano/blob/main/Jetson_nano_setup/jetson_nano.jpg" alt="Demo2" width="400" height="300">
+
 ## Installation
 
 ### Initial Setup
@@ -296,13 +307,6 @@ https://user-images.githubusercontent.com/80247111/151320713-e6691c72-2f4a-44ea-
 
 
 
-## Screenshots
-
-
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano0.jpg" alt="Demo2" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano1.jpg" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/Garbage_Detection-using-Jetson-Nano/blob/main/Screenshots/jetson_nano2.jpg" alt="Demo2" width="400" height="300">
 
 ## Advantages
 
