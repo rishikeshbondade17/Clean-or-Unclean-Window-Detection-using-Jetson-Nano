@@ -1,5 +1,5 @@
 
-# Window Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+# Clean or Unclean Window Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
 
 Window detection system which will detect the quality of a window,
 identify whether it’s clear, foggy, clean and unclean and then recommend the steps to take
